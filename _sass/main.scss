@@ -1,0 +1,49 @@
+$backgroundColor: #f4f4f4;
+$bodyColor: #333;
+$bodyFont: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+
+body {
+  background: $backgroundColor;
+  color: $bodyColor;
+  font-family: $bodyFont;
+
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #003399;
+  color: white;
+  padding: 20px 0;
+  text-align: center;
+  position: relative;
+}
+
+header img {
+  width: 50px;
+  position: absolute;
+  left: 20px;
+  top: 20px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+}
+
+h3 {
+  margin-top: 3em;
+}
+
+footer {
+  background-color: #003399;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+}

@@ -1,0 +1,8 @@
+title: European Cyber Independence Day
+email: pieces-snowier-3y@icloud.com
+description: >- # this means to ignore newlines until "baseurl:"
+  We propose the establishment of an annual European Cyber Independence Day to
+  test, assert, and improve Europe's independence in information technology.
+
+url: "https://cyber-independence-day.eu" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
